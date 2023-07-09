@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Get_Fit_Club/static/css/main.a78130bd.css",
+    "main.js": "/Get_Fit_Club/static/js/main.fa2f3e2a.js",
+    "static/js/787.8f5920c9.chunk.js": "/Get_Fit_Club/static/js/787.8f5920c9.chunk.js",
+    "static/media/0.png": "/Get_Fit_Club/static/media/0.f89ca7d7a537a527405c.png",
+    "index.html": "/Get_Fit_Club/index.html",
+    "main.a78130bd.css.map": "/Get_Fit_Club/static/css/main.a78130bd.css.map",
+    "main.fa2f3e2a.js.map": "/Get_Fit_Club/static/js/main.fa2f3e2a.js.map",
+    "787.8f5920c9.chunk.js.map": "/Get_Fit_Club/static/js/787.8f5920c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a78130bd.css",
+    "static/js/main.fa2f3e2a.js"
+  ]
+}
